@@ -1,0 +1,5 @@
+Liquid Surface Height Controller (LSHC) Software v1.0
+
+LabVIEW 2020 software for controlling the LSHC (see manual). 
+
+SubVIs for controlling the NE-500 syringe pump from freely available example programs provided by New Era Pump Systems on syringepump.com
